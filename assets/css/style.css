@@ -174,3 +174,8 @@
     margin-left: 250px;
     margin-top: -18px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
