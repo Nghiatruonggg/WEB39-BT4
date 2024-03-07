@@ -1,0 +1,176 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 800px;
+    background-color: grey;
+    padding-top: 50px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly ;
+    
+}
+
+/* Card 1 */
+.wrapcard-1 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white;
+}
+
+.Pic1 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color:transparent;
+    margin: auto
+}
+
+/* Card 2 */
+.wrapcard-2 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white;   
+}
+
+.Pic2 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    margin: auto
+}
+
+/* Card 3 */
+.wrapcard-3 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white;
+}
+
+.Pic3 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    margin: auto
+}
+
+/* Card 4 */
+.wrapcard-4 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white;
+}
+
+.Pic4 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    margin: auto
+}
+
+/* Card 5 */
+.wrapcard-5 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white;
+}
+
+.Pic5 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    margin: auto
+}
+
+/* Card 6 */
+.wrapcard-6 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 8px ;
+    background-color: white
+}
+
+.Pic6 {
+    width: 100%;
+    height: 200px;
+    margin-bottom: -6px;
+}
+
+.card-bottom-6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 100px;
+    background-color: transparent;
+    margin: auto
+}
+
+/* Text */
+.first-text {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.second-text {
+    margin-top: 25px;
+}
+
+.second-text-5 {
+    margin-top: 15px;
+}
+
+.third-text {
+    margin-left: 250px;
+    margin-top: -18px;
+}
